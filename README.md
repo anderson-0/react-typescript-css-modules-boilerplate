@@ -1,2 +1,2 @@
-# react-typescript-css-modules-boilerplate
+# react-typescript-scss-modules-boilerplate
  
